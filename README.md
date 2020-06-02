@@ -8,6 +8,10 @@ This repository contains Pyronome **React.js 16.x for Laravel 6.x** pattern basi
 
 Please refer to the [Getting Started](https://github.com/pyronome/pattern-reactjs-16x-laravel-6x#getting-started) section for step by step instructions.
 
+## Status: Experimental
+
+Not available for production environments. The stable version is coming soon.
+
 ## Getting Started
 
 Please follow the steps below to generate source code using **React.js 16.x for Laravel 6.x** pattern:
